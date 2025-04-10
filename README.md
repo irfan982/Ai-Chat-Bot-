@@ -32,3 +32,11 @@ A sleek, modern chatbot frontend connected to Google's **Gemini 1.5 Flash** API.
 
 ## 📁 Project Structure
 
+
+## 🔧 Setup & Usage
+
+### 1. Clone this repository
+
+```bash
+git clone https://github.com/your-username/ai-chatbot-ui.git
+cd ai-chatbot-ui
